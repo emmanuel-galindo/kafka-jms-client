@@ -3,6 +3,8 @@ Kafka JMS Client consumer and producer implementation, using standalone Java, to
 This client, with minor adaptations from below doc, could be used for an on premise installation as well.
 Reference: https://docs.confluent.io/current/clients/kafka-jms-client/index.html
 
+Tutorial: https://emmanuel-galindo.github.io/en/2020/08/11/kafka-jms-client-to-confluent-cloud/
+
 ## Requirements
 - Compile a fat jar. Reference: https://docs.confluent.io/current/clients/kafka-jms-client/installation.html#appendix-1-creating-a-shaded-fat-jar 
 - Download Java JMS 1.1 library. Reference: https://repository.jboss.org/maven2/javax/jms/jms/1.1/
